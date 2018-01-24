@@ -35,16 +35,16 @@ People are conscious of what they wear, so if the wearable is clunky and very vi
 ### Data Ownership
 Who owns the data that is collected using the wearable? Does it belong to the user or the company that makes the wearable? Can a user successfully request the company to delete all the data the wearable has collected?
 ### Privacy
-How secure is the collected data in the wearable company's servers? Besides the data collected by the sensors on the wearable device, what other data is collected by the wearable company? This is especially the case when there is a companion mobile app. Be sure to check what types of permissions are requested by the companion app. If user anonymity is important, ensure to disable those permissions that might leak identifiable information.
+How secure is the collected data in the wearable company's servers? Do your due diligence by finding out their security measures and if those measures meet the standards required for the study. Besides the data collected by the sensors on the wearable device, what other data is collected by the wearable company? This is especially the case when there is a companion mobile app. Be sure to check what types of permissions are requested by the companion app and if those permissions are really necessary. If user anonymity is important, ensure to disable those permissions that might leak identifiable information.
 ### Health Issues
 Some of the wearables have been known to have issues such as causing skin rashes or causing skin burns whenever the battery heats up. DO your due diligence to find out whether the device you intend to use has experienced such issues in the past.
 ### Wearable Manufacturer
 The wearables industry changes very quickly, so it is important to choose a wearable from a reputable company that is not likely to go out of business soon. This is especially important if the study is going to run for a long period of time. Another important point is to choose a company that a good support. A lot of wearables malfunction after awhile, so it is really helpful if the manufacturer has a good support team that can help fix such problems.
-### Updates
-Firmware(wearable) and software updates(companion app/API) might affect the collected data, so download the already collected data before making any updates. For example, a firmware update might erase the unsynced data residing on the device. The best way to go about this is to have extra devices that are used for test purposes. If a new update breaks your protocol, then don't install such an update on the real study devices, or amend your protocol in accordance with the new version of the app/wearable.
+### Software Updates
+Firmware updates to the device and software updates to the companion app might affect the collected data, so download the already collected data before making any updates. For example, a firmware update might erase the unsynced data residing on the device. The best way to go about this is to have extra devices that are used for test purposes. If a new update breaks your protocol, then don't install such an update on the real study devices, or amend your protocol in accordance with the new version of the app/wearable.
 ### Ease of usability
 Users are more likely to respond positively to a device that is easy to use. The onboarding process for the users should therefore be very straight forward. This is especially the case with a study where you mail the devices to the users and then they set up the wearable on their own. 
-### Managing a Group of Users
-Commercial wearables are intended for individual daily use and therefore do not offer features to manage a number of devices. Devices meant for research on the other hand offer features to manage a large number of devices involved in a study. 
+### Managing Groups of Users
+Commercial wearables are intended for individual daily use and therefore do not offer features to manage a large number of devices. Devices meant for research on the other hand offer features to manage a large number of devices involved in a study. 
 ### Incentives
 Users are more receptive to having a wearable in the beginning of a study. However, as the awe of the device fades, they might find it hard to wear it every day. So it is important to have an incentive for them to keep putting on the device.
