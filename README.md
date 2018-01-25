@@ -24,7 +24,7 @@ This is something that most users of commercial wearable devices do not think ab
 If the study is being done in an environment without consistent internet access, it is important to test out if the collected data can stay on the companion app for the whole duration of the study. Also test whether the data stays on the device if the user is signed out of the account in the companion app.
 ### Data Access
 Each wearable has their own way of presenting the collected data to the user. The most common way to access the data is through the companion mobile or web application. For a research study though, access through such apps is not adequate so you need a wearable that allows the data to be downloaded onto a file. This is mostly provided through an API or a generic downloadble file.
-### Raw versus Derived Data
+### Raw vs Derived Data
 Most commercial wearables show their users derived data and not the raw data, for example, number of hours slept and the amount of time in each stage of sleep and not show the raw data that was used to arrive at that number. Additionally, the algorithms used to generate the derived data are not publicly available. This might be an issue if the raw/derived data is deemed untrustworthy.
 ### Data Storage Duration
 How long does the wearable company store the data on their cloud servers? Some companies delete the data after a certain period of time, so it is important to download and store this data safely on your own system.
