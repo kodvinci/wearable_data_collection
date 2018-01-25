@@ -1,4 +1,4 @@
-# Considerations When Doing a Wearable Data Collection Study
+## Considerations When Doing a Wearable Data Collection Study
 Wearables have become very popular these past few years and you might be thinking about doing a study using them. There are very many wearables devices out there, so what are the considerations to be taken into account when choosing one? The points listed below are not an exhaustive list of what to consider, but they are helpful in arriving on a decision on what device to go with. Most of this information can be gleaned by reading the specifications of the devices, visiting their online support forms, reading reviews about them, and speaking with the customer support to find out more about the device.
 ### Previous Use Cases
 When thinking about a wearable device, one of the first steps is to find out if it has been used before in another research study and what challenges were encountered during that study. If there are no previous cases, having a conversation with the manufaturer about the possibility of using their device for such a use-case is important.
